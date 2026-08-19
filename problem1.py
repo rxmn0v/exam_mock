@@ -21,4 +21,3 @@ def count_vowels_and_consonants(text: str) -> dict:
 
 
 print(count_vowels_and_consonants("Salom Dunyo!"))
-# Kutilgan natija: {"unli": 4, "undosh": 5}
